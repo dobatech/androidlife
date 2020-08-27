@@ -1,0 +1,2 @@
+rootProject.name='androidlife'
+include ':app'
